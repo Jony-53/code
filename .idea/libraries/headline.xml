@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="headline">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/jjwt-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/druid-1.1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/production/headline/jackson-databind-2.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

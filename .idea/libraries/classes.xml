@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/jjwt-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/druid-1.1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/headline/out/artifacts/headline_war_exploded/WEB-INF/classes/jackson-databind-2.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
